@@ -15,17 +15,17 @@ This project is a Sudoku solver implemented in Python, with a real-time visualiz
 **Features:**
 
 
-&#8226; <p style="text-decoration: underline;">Backtracking Algorithm </p>: Efficiently solves any valid Sudoku puzzle.
+&#8226; Backtracking Algorithm: Efficiently solves any valid Sudoku puzzle.
 
-&#8226; <p style="text-decoration: underline;">Real-time Visualization</p>: Watch the solving process in action with color-coded feedback:
+&#8226; Real-time Visualization: Watch the solving process in action with color-coded feedback:
 
-&#8226; <p style="text-decoration: underline;">Green</p>: A number is successfully placed in a cell.
+&#8226; Green: A number is successfully placed in a cell.
 
-&#8226; <p style="text-decoration: underline;">Red</p>: The algorithm backtracks, removing a previously placed number.
+&#8226; Red The algorithm backtracks, removing a previously placed number.
 
-&#8226; <p style="text-decoration: underline;">White</p>: The cell is reset to its original state after backtracking.
+&#8226; White: The cell is reset to its original state after backtracking.
 
-&#8226; <p style="text-decoration: underline;">Interactive GUI</p>: The Pygame window allows you to observe the solver in action. The window remains open after solving, allowing you to inspect the final solution.
+&#8226; Interactive GUI: The Pygame window allows you to observe the solver in action. The window remains open after solving, allowing you to inspect the final solution.
 
 
 **Start:**
