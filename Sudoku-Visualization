@@ -65,7 +65,7 @@ def solve(grid, r=0, c=0):
                 draw_grid()
                 draw_numbers(grid)  # Draw numbers after highlighting
                 pygame.display.update()
-                time.sleep(0.15)  # Slow down to visualize
+                time.sleep(0)  # Slow down to visualize
 
                 if solve(grid, r, c + 1):
                     return True
@@ -76,7 +76,7 @@ def solve(grid, r=0, c=0):
                 draw_grid()
                 draw_numbers(grid)  # Draw numbers after highlighting
                 pygame.display.update()
-                time.sleep(0.1)  # Slow down to visualize
+                time.sleep(0)  # Slow down to visualize
 
                 # Reset to white after backtracking
                 highlight_cell(r, c, BG_COLOR)
