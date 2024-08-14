@@ -3,12 +3,12 @@ Solves the game Sudoku using the Backtracking Algorithm
 
 
 
-****Sudoku Solver with Pygame Visualization****
-
 **Overview**
+
 This project is a Sudoku solver implemented in Python, with a real-time visualization of the solving process using Pygame. The solver uses a backtracking algorithm to fill in the Sudoku grid, and the visualization highlights the process by coloring the cells green when a number is placed, red when backtracking occurs, and white when cells are reset.
 
 **Features**
+
 &#8226; Backtracking Algorithm: Efficiently solves any valid Sudoku puzzle.
 &#8226; Real-time Visualization: Watch the solving process in action with color-coded feedback:
 &#8226; Green: A number is successfully placed in a cell.
