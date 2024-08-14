@@ -1,17 +1,17 @@
 # Sudoku-Solver
 Solves the game Sudoku using the Backtracking Algorithm
-
-
-
-
-
+  
+  
+  
+  
+  
 **Overview**
 
 This project is a Sudoku solver implemented in Python, with a real-time visualization of the solving process using Pygame. The solver uses a backtracking algorithm to fill in the Sudoku grid, and the visualization highlights the process by coloring the cells green when a number is placed, red when backtracking occurs, and white when cells are reset.
-
-
-
-
+  
+ 
+   
+  
 **Features:**
 
 
@@ -55,14 +55,16 @@ pip install pygame
 **3.** Run the Project
 python sudoku_visualization.py
 
-
-
-
+   
+  
+  
 **Usage:**
 
 The Sudoku grid is hardcoded into the script. You can modify the grid variable in the main() function to solve different Sudoku puzzles.
 The solving process is visualized in the Pygame window. The window will stay open after solving is complete, allowing you to close it manually.
-
+ 
+ 
+   
 **Project Structure**
 
 ├── sudoku_solver.py           # Contains the Sudoku solver logic
