@@ -12,7 +12,8 @@ This project is a Sudoku solver implemented in Python, with a real-time visualiz
 
 
 
-**Features**
+**Features:**
+
 
 &#8226; Backtracking Algorithm: Efficiently solves any valid Sudoku puzzle.
 
@@ -39,7 +40,8 @@ This project is a Sudoku solver implemented in Python, with a real-time visualiz
 
 
 
-**Installation**
+**Installation:**
+
 To run this project on your local machine, follow these steps:
 
 **1.** Clone the Repository
@@ -56,7 +58,8 @@ python sudoku_visualization.py
 
 
 
-**Usage**
+**Usage:**
+
 The Sudoku grid is hardcoded into the script. You can modify the grid variable in the main() function to solve different Sudoku puzzles.
 The solving process is visualized in the Pygame window. The window will stay open after solving is complete, allowing you to close it manually.
 
