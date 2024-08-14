@@ -1,4 +1,4 @@
-# Sudoku-Solver
+#### Sudoku-Solver
 Solves the game Sudoku using the Backtracking Algorithm
   
   
@@ -65,7 +65,7 @@ The solving process is visualized in the Pygame window. The window will stay ope
  
  
    
-**Project Structure**
+**Project Structure:**
 
 ├── sudoku_solver.py           # Contains the Sudoku solver logic
 
